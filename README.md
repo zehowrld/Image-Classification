@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file content for your project:
-
----
-
 # Image Classification using Convolutional Neural Networks (CNNs)
 
 ## Overview
