@@ -17,6 +17,7 @@ This project aims to build an image classification model using Convolutional Neu
 ## Results
 - **Accuracy**: The trained CNN model,Leveraging Pretrained Models: Utilize the Inception V3 model developed by Google, pretrained on ImageNet, to extract high-level image features and enhance the accuracy of the classification model.
 - The accuracy of the model improved from 88% to 92%, resulting in a 4.5% relative improvement in accuracy.in distinguishing between cats and dogs in test images.
+- ![train acc](https://github.com/zehowrld/Image-Classification/assets/69119826/d22c0786-6dd4-4e6d-b948-4223658cf9ca)
 
 ## Dependencies
 - Python 3.x
